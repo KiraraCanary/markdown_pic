@@ -1,2 +1,2 @@
 # markdown_pic
-存储博客markdown笔记所需要的图片资源
+存储写markdown笔记所需要的图片资源
